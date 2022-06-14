@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBluePurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Overview](https://raw.githubusercontent.com/KBluePurple/github-stats-transparent/output/generated/overview.svg)](https://github.com/KBluePurple)
 
 
-[![KBluePurple's GitHub stats](https://github-readme-stats.vercel.app/api?username=KBluePurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Language](https://raw.githubusercontent.com/KBluePurple/github-stats-transparent/output/generated/overview.svg)](https://github.com/KBluePurple)
