@@ -6,9 +6,6 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=KBluePurple&show_icons=true)](https://github.com/KBluePurple)
 
-<details align="center">
-  <summary>I am learning the following skills</summary>
-  <p align="center" style="font-size: 30px">
-    <b>I am learning the following skills</b>
-  </p>
-</details>
+<p align="center" style="font-size: 30px">
+  <b>I am learning the following skills</b>
+</p>
