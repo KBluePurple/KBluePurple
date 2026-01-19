@@ -5,7 +5,7 @@
 C#, Typescript, Rust, Go, Python
 
 ### Field
-GameDev / ServerDev / FrontendDev / BackendDev
+GameDev / ServerDev / FrontendDev / BackendDev / DevOps / Infrastructure
 
 ### Contect  
 Email: cl1awir7m@mozmail.com  
